@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">备忘录</string>
+
+    <!--编辑备忘录-->
+    <string name="save">保存</string>
+    <string name="modify">修改</string>
+
+</resources>
